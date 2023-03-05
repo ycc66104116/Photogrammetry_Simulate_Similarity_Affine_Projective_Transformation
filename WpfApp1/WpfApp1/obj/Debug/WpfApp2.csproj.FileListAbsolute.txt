@@ -1,0 +1,59 @@
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\crpghw2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\crpghw2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\crpghw2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\crpghw2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\crpghw2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\crpghw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\hw2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\hw2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\hw2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\四下\近景攝影測量\HW2_0522\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+D:\四下\近景攝影測量\HW2_0522\hw2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\四下\近景攝影測量\HW2_0522\hw2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\四下\近景攝影測量\HW2_0522\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\四下\近景攝影測量\HW2_0522\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\四下\近景攝影測量\HW2_0522\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\四下\近景攝影測量\HW2_0522\hw2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

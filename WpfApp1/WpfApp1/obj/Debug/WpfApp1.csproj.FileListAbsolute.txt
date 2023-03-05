@@ -1,0 +1,30 @@
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\a5609\Dropbox\我的電腦 (DESKTOP-KUSDQRC)\Desktop\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\0319test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\0319test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
